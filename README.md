@@ -1,6 +1,10 @@
 # THIS IS A FORK
 I forked this to my own repo so I could edit the css a bit and have a link to [the css file](NotAnotherAnimeTheme.theme.css), rather than having to download it.
+## My edited version:
+<img width="1725" height="875" alt="image" src="https://github.com/user-attachments/assets/edba1ea0-e2fc-41c7-872d-3b07b2b41a95" />
 
+
+# The README from the original source starts here
 <p align="center">
 <img src = "https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/image/header.jpg">
 </p>
