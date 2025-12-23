@@ -1,7 +1,19 @@
 # THIS IS A FORK
-I forked this to my own repo so I could edit the css a bit and have a link to [the css file](NotAnotherAnimeTheme.theme.css), rather than having to download it.
-## My edited version:
+I forked this to my own repo so I could edit the css a bit and have a link to the css file, rather than having to download it.
+
+## My Themes
+- [Miku](Miku.theme.css)
+- [Super Mario Odyssey](SMO.theme.css)
+
+## My edited version ([Miku](Miku.theme.css))
 <img width="1725" height="875" alt="image" src="https://github.com/user-attachments/assets/edba1ea0-e2fc-41c7-872d-3b07b2b41a95" />
+
+# Vencord Instructions
+1. Open settings <img width="120" height="94" alt="image" src="https://github.com/user-attachments/assets/1ee9a3c2-692d-47ad-b20b-be426905e616" />
+2. Scroll down and click on themes <img width="244" height="206" alt="image" src="https://github.com/user-attachments/assets/8f1f7a95-df1a-4855-bcbe-5fdd6272b7f5" />
+3. Paste the link for the RAW file <img width="779" height="472" alt="image" src="https://github.com/user-attachments/assets/6cd9d4b3-062c-437a-bafe-149539813f65" />
+    a. You can find it by clicking on the theme you want, then right-clicking on "Raw" and copying the link. <img width="1728" height="881" alt="image" src="https://github.com/user-attachments/assets/6f0fffce-21bb-48af-a8c6-c5bb3d629f86" />
+
 
 
 # The README from the original source starts here
