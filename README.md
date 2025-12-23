@@ -1,5 +1,5 @@
 # THIS IS A FORK
-I forked this to my own repo so I could edit the css a bit and have a link to the file, rather than having to download it.
+I forked this to my own repo so I could edit the css a bit and have a link to [the css file](NotAnotherAnimeTheme.theme.css), rather than having to download it.
 
 <p align="center">
 <img src = "https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/image/header.jpg">
